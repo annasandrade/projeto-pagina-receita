@@ -23,22 +23,25 @@ cor2:#FFF7FC;
 body, html{
     background-color:#F3E5D8;
     }
+
 header img{
 display: flex;
-width: 420px;
+width: 510px;
 margin: auto;
 border-radius: 12px;
 margin-top: 5px;
+padding: 7px;
 
 }
+
+
 main{
 
 display: flex;
 flex-direction: column;
 background-color: white;
-width: 430px;
+width: 540px;
 flex-wrap: wrap;
-
 
 }
 
@@ -52,16 +55,21 @@ margin-bottom: 100px;
 border-radius: 15px;
 }
 
+
 .secao1 h1{
  font-family:'Young Serif', serif;
  font-weight: 400;
- font-size: 1.7em; 
+ font-size: 2em;
+ padding: 10px;
+ 
 }
 
 .secao1 p{
 font-family: 'Outfit', serif;
-font-size: 11px;
+font-size: 13px;
 color: #949391;
+padding: 10px;
+
 
 }
 
